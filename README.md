@@ -4,7 +4,7 @@ Redirecionamento responsivo
 Responsive front end project, testing redirects and styling of images and effects via CSS
 #
 
-![GitHub, LinekdIn e Instagram; clique e seja redirecionado!](banner.png)
+![GitHub, LinekdIn e Instagram; clique e seja redirecionado!]![banner](https://user-images.githubusercontent.com/110063438/208251921-41e604e2-5375-49ac-bbb8-c5cf35fab449.png)
 ![GitHub Org's stars](https://img.shields.io/github/stars/jeancarlosde-limastyle=social)
 #
 # Índice 
